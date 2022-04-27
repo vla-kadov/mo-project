@@ -1,0 +1,3 @@
+C:\Users\ekadov\Documents\mo-project\tests\mo_portal\test_auth.py: 9
+
+logo_main = s(xpath='/html/body/header/div/div/div[2]/a')

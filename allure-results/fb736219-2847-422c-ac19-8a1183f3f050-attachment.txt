@@ -1,0 +1,3 @@
+C:\Users\ekadov\Documents\mo-project\tests\mo_portal\test_auth.py: 7
+
+edit_search = s(xpath='//*[@id="text"]')

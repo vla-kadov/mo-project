@@ -1,0 +1,7 @@
+pytest
+pytest-html
+selenium
+allure-pytest
+browsermob-proxy
+allure-python-commons
+requests

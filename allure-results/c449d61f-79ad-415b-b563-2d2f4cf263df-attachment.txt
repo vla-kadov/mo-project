@@ -1,0 +1,10 @@
+File C:\Users\ekadov\Documents\mo-project\tests\mo_portal\test_auth.py; line 29
+
+##############################
+
+    def test_1(self):
+        edit_search.send_keys("Vova")
+        button_search.click()
+        logo_main.assert_element_existence_and_displayed()
+
+##############################
